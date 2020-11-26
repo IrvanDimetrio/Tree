@@ -1,7 +1,7 @@
 # Tree
 Program sederhana Tree dan Binary Tree
 
-#Output
+# Output
 
 ![binary](https://user-images.githubusercontent.com/52452132/100355776-ec849580-3024-11eb-84d5-92a253828d78.png)
 
